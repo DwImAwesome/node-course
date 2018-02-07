@@ -3,3 +3,5 @@ notes-node/node_modules
 node-web-server/node_modules
 node-web-server/server.log
 hello-word/node_modules
+node-test/node_modules
+node-test/package-lock.json
