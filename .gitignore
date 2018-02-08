@@ -6,3 +6,4 @@ hello-word/node_modules
 node-test/node_modules
 node-test/package-lock.json
 Hello_electron/node_modules
+Hello_electron/release-builds
