@@ -1,0 +1,20 @@
+{
+  "name": "Hello_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "electron": "^1.8.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^11.0.0",
+    "electron-reload": "^1.2.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

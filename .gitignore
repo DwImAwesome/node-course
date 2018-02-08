@@ -5,3 +5,4 @@ node-web-server/server.log
 hello-word/node_modules
 node-test/node_modules
 node-test/package-lock.json
+Hello_electron/node_modules
